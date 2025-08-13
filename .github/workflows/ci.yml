@@ -1,11 +1,11 @@
-name: CI
+name: CI 
 
 on:
   push
 
 jobs:
   build:
-    name: CI
+    name: CI New Name
     runs-on: ubuntu-22.04
 
     steps:
